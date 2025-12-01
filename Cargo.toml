@@ -1,6 +1,6 @@
 [package]
 name = "q-cli"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "q is a terminal helper that uses AI to interpret natural language queries and suggest (or execute) appropriate shell commands."
 license = "MIT"
