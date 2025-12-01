@@ -6,7 +6,7 @@ description = "q is a terminal helper that uses AI to interpret natural language
 license = "MIT"
 repository = "https://github.com/sauyon/q"
 readme = "README.md"
-keywords = ["cli", "shell", "terminal", "ai", "assistant", "chatgpt"]
+keywords = ["cli", "shell", "terminal", "ai", "assistant"]
 categories = ["command-line-utilities"]
 authors = ["sauyon"]
 
